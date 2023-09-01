@@ -5,4 +5,4 @@
 
 ## [Code](https://github.com/ammarAltarawneh/InsertionSort/blob/master/InsertionSort/SortingAlgorithms.cs)
 
-## [Blog]()
+## [Blog](https://github.com/ammarAltarawneh/InsertionSort/blob/MergeSort/MergeSort/Blog.md)
